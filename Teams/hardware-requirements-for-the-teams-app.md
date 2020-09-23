@@ -34,7 +34,7 @@ All of the requirements in the following sections apply to both the Microsoft Te
 |Hard disk    | 3.0 GB of available disk space        |
 |Display    |   1024 x 768 screen resolution |
 |Graphics hardware |  Minimum of 128 MB graphics memory
-|Operating system  |    Windows Server 2012 R2+, Windows 10, or Windows 8.1 in 32-bit and 64-bit. For the best experience, use the latest version of your operating system.|
+|Operating system  |    Windows Server 2012 R2+, Windows 10, Windows 10 on ARM (native 64-bit only) or Windows 8.1 in 32-bit and 64-bit. For the best experience, use the latest version of your operating system.|
 |.NET version    |  Requires .NET 4.5 CLR or later       |
 |Video    |  USB 2.0 video camera       |
 |Devices    |   Standard laptop camera, microphone, and speakers    | 
